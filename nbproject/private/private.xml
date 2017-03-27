@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/views/forgotten_password.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/views/includes/email/activate_account.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/controllers/Auth.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/libraries/Flexi_auth.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/views/login.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/views/includes/email/registration_welcome.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/views/register.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/config/flexi_auth.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/views/investment.php</file>
+            <file>file:/C:/xampp/htdocs/bitbarrister/application/models/Demo_auth_model.php</file>
+        </group>
+    </open-files>
+</project-private>
